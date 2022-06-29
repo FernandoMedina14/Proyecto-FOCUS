@@ -1,0 +1,1 @@
+C:\desarollo\xampp\php\php.exe -f C:\desarollo\xampp\htdocs\sistema\cron.php
