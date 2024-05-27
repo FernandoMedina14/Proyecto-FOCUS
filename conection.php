@@ -1,6 +1,6 @@
 <?php
 
-    $conection=pg_connect("host=localhost dbname=FOCUS user=postgres password=Mastergol10");
+    $conection=pg_connect("host=localhost dbname=FOCUS user=postgres");
 
     if($conection == FALSE){
         echo 'Conexión fallida';
